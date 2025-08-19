@@ -1,4 +1,4 @@
-# 🔮 AI Astrologer (Internship Demo Project)
+#  AI Astrologer (Internship Demo Project)
 
 This project was built as part of an internship screening assignment.  
 The task was to create a simple “AI Astrologer” app that collects user birth details and generates astrology-inspired responses, including answering one free-text question.  
@@ -50,7 +50,7 @@ ai-astrologer/
 ├── requirements.txt   # Dependencies
 └── README.md          # Documentation
 
-## 🔎 Notes & Reflections
+##  Notes & Reflections
 - This app is **rule-based**, not a real astrological calculator. It was designed as a **demo project** for internship evaluation.  
 - If I had more time, I would extend it with:  
   - A proper birth chart API or astronomical library.  
